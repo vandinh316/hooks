@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-hooks/static/css/main.adaa3b30.css",
+    "main.js": "/react-hooks/static/js/main.77f2ad6b.js",
+    "static/js/787.76d73af4.chunk.js": "/react-hooks/static/js/787.76d73af4.chunk.js",
+    "static/media/item-7.jpeg": "/react-hooks/static/media/item-7.2b2d85320c08729e6a58.jpeg",
+    "static/media/item-2.jpeg": "/react-hooks/static/media/item-2.f0b6b25efcbd39c641cb.jpeg",
+    "static/media/item-8.jpeg": "/react-hooks/static/media/item-8.77daac2abe411b747cb4.jpeg",
+    "static/media/item-4.jpeg": "/react-hooks/static/media/item-4.1246e0c14d2695db1ae5.jpeg",
+    "static/media/item-1.jpeg": "/react-hooks/static/media/item-1.59f884831772e6397275.jpeg",
+    "static/media/item-6.jpeg": "/react-hooks/static/media/item-6.71751fefb2ee55699e44.jpeg",
+    "static/media/item-3.jpeg": "/react-hooks/static/media/item-3.41dbf97f88e1e73a7474.jpeg",
+    "static/media/item-5.jpeg": "/react-hooks/static/media/item-5.39ce038c4ceb093d7c66.jpeg",
+    "static/media/item-9.jpeg": "/react-hooks/static/media/item-9.46d925888a7d2fa971d6.jpeg",
+    "static/media/logo.svg": "/react-hooks/static/media/logo.f13078c14d1831c5548008363223e259.svg",
+    "index.html": "/react-hooks/index.html",
+    "main.adaa3b30.css.map": "/react-hooks/static/css/main.adaa3b30.css.map",
+    "main.77f2ad6b.js.map": "/react-hooks/static/js/main.77f2ad6b.js.map",
+    "787.76d73af4.chunk.js.map": "/react-hooks/static/js/787.76d73af4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adaa3b30.css",
+    "static/js/main.77f2ad6b.js"
+  ]
+}
