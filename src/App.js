@@ -13,6 +13,7 @@ import Demo9 from "./components/Demo9";
 import Demo10 from "./components/Demo10";
 import Demo11 from "./components/Demo11";
 import Demo12 from "./components/Demo12";
+import Demo14 from "./components/Demo14";
 import "./App.scss";
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
           <Route path="/demo10" element={<Demo10 />} />
           <Route path="/demo11" element={<Demo11 />} />
           <Route path="/demo12" element={<Demo12 />} />
+          <Route path="/demo14" element={<Demo14 />} />
         </Routes>
       </main>
     </div>

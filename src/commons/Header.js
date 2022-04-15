@@ -81,6 +81,11 @@ const Header = () => {
                 Context
               </NavLink>
             </li>
+            <li className="nav__item">
+              <NavLink className="nav__link" to="/demo14">
+                Cart
+              </NavLink>
+            </li>
           </ul>
         </nav>
       </div>
